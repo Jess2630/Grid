@@ -1,3 +1,7 @@
+:root{
+    --header_bg: #15318f;
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -13,8 +17,18 @@ body{
     margin: 0 auto;
 }
 
-/* Cajas */
+img{
+    max-width: 100%;
+}
 
+/* Cajas */
+.header__bg{
+    height: 60rem;
+    background-image: url(img/img5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
 
 
 
