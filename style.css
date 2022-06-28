@@ -21,7 +21,14 @@ img{
     max-width: 100%;
 }
 
-/* Cajas */
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
 .header__bg{
     height: 60rem;
     background-image: url(img/img5.jpg);
@@ -30,5 +37,5 @@ img{
     background-position: center center;
 }
 
-
+/* Header */
 
